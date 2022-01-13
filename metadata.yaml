@@ -1,0 +1,31 @@
+_repo: Legy-jo-mindhalalig_67140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2022-01-10'
+identifiers:
+  gutenberg: '67140'
+language: hu
+pgterms:marc905: 20220109041910mricz
+pgterms:marc906: '1921'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: Hungary :Athenaeum,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Légy jó mindhalálig
+url: http://www.gutenberg.org/ebooks/67140
